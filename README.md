@@ -1,4 +1,4 @@
-# python
+# Python
 
 This is my student code for Python For Infomatics.
 
